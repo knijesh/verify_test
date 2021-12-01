@@ -1,0 +1,201 @@
+Count,Country,State,City,ZipCode,Latitude,Longitude,Gender,SeniorCitizen,Partner,Dependents,TenureMonths,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,ChurnValue
+1,United States,California,Tulelake,96134,41.813521,-121.492666,Male,No,Yes,Yes,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,24.4,253.9,0
+1,United States,California,Beaumont,92223,33.946982,-116.977672,Male,No,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),90.55,6404,0
+1,United States,California,Fresno,93701,36.749403,-119.787574,Male,No,No,No,24,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),60.45,1440.75,0
+1,United States,California,Blue Lake,95525,40.94338,-123.831799,Male,No,No,No,12,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,53.75,648.65,0
+1,United States,California,Sun Valley,91352,34.231053,-118.338307,Male,No,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,No,Electronic check,104.0,6363.45,0
+1,United States,California,Claremont,91711,34.127621,-117.717863,Female,Yes,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,78.95,378.4,1
+1,United States,California,Green Valley Lake,92341,34.244411,-117.072654,Female,No,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.15,2494.65,0
+1,United States,California,Porter Ranch,91326,34.281911,-118.556218,Male,No,Yes,Yes,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.95,1377.7,0
+1,United States,California,Del Rey,93616,36.657462,-119.595293,Female,No,No,No,34,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),67.65,2339.3,0
+1,United States,California,Norco,92860,33.925833,-117.559639,Female,No,No,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.65, �830.25�,0
+1,United States,California,Rancho Cucamonga,91739,34.133809,-117.523724,Female,No,Yes,No,67,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,59.55,4103.9,0
+1,United States,California,Morro Bay,93442,35.369553,-120.763864,Female,No,Yes,No,35,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,2416.55,1
+1,United States,California,Winterhaven,92283,32.852947,-114.850784,Female,No,Yes,Yes,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.95,858.6,0
+1,United States,California,Los Angeles,90037,34.002642,-118.287596,Female,No,Yes,Yes,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.5,285.2,0
+1,United States,California,Trinity Center,96091,41.081847,-122.700545,Male,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.4,24.4,0
+1,United States,California,Los Angeles,90039,34.110845,-118.259595,Male,No,Yes,No,61,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),96.5,5673.7,0
+1,United States,California,San Diego,92114,32.707892,-117.05512,Female,Yes,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99.75,1836.25,1
+1,United States,California,Petrolia,95558,40.274302,-124.210902,Male,No,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.9,6457.15,0
+1,United States,California,Desert Hot Springs,92240,33.948558,-116.516976,Female,No,No,No,34,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73.95,2524.45,1
+1,United States,California,San Diego,92131,32.89325,-117.087091,Female,No,Yes,Yes,5,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.05,125.5,0
+1,United States,California,Pomona,91767,34.083086,-117.737997,Female,No,Yes,Yes,32,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.15,1051.05,0
+1,United States,California,Mt Baldy,91759,34.231318,-117.662032,Male,No,No,No,50,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.9,1195.25,0
+1,United States,California,Pine Valley,91962,32.800671,-116.483363,Male,Yes,Yes,No,69,No,No phone service,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card (automatic),29.8,2134.3,0
+1,United States,California,Oceanside,92056,33.194742,-117.29032,Female,No,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),55.65,3880.05,0
+1,United States,California,Fresno,93728,36.757345,-119.818274,Male,No,Yes,Yes,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,20.35,1354.4,0
+1,United States,California,Tupman,93276,35.316263,-119.402559,Female,No,No,Yes,70,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Electronic check,66.0,4891.5,0
+1,United States,California,Gridley,95948,39.346898,-121.759537,Female,No,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.1,1247.75,0
+1,United States,California,Montebello,90640,34.015217,-118.109962,Female,No,Yes,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.85,62.9,0
+1,United States,California,Williams,95987,39.117537,-122.284654,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.2,69.2,1
+1,United States,California,Long Beach,90804,33.783047,-118.1486,Male,Yes,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),93.65,4839.15,0
+1,United States,California,Concord,94518,37.950248,-122.022455,Female,No,Yes,No,49,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,99.4,5025,0
+1,United States,California,Dunlap,93621,36.789213,-119.140338,Male,No,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),81.7,2548.65,0
+1,United States,California,Pearblossom,93553,34.445239,-117.894868,Female,No,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,89.4,1132.35,1
+1,United States,California,Berkeley,94704,37.871416,-122.246597,Male,No,No,No,19,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,78.25,1490.95,1
+1,United States,California,Fairfield,94533,38.287136,-122.02711,Male,No,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.95,59.25,0
+1,United States,California,Los Angeles,90034,34.030578,-118.399613,Male,Yes,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.5,181.65,0
+1,United States,California,Whittier,90604,33.929704,-118.01208,Male,No,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,89.85,248.4,0
+1,United States,California,Los Angeles,90037,34.002642,-118.287596,Female,No,No,No,12,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,89.4,1095.65,1
+1,United States,California,Sheep Ranch,95250,38.244806,-120.417301,Male,No,Yes,No,13,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.25,1359,1
+1,United States,California,Orange,92868,33.787796,-117.875928,Male,No,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),74.55,1170.5,0
+1,United States,California,Herald,95638,38.313447,-121.123886,Female,Yes,Yes,No,50,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.05,3444.85,1
+1,United States,California,Calpine,96124,39.672813,-120.456699,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,43.8,43.8,0
+1,United States,California,Novato,94949,38.067204,-122.524004,Male,No,No,No,23,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,90.6,1943.2,1
+1,United States,California,San Diego,92111,32.805518,-117.169052,Female,No,No,No,41,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),98.8,3959.15,0
+1,United States,California,Montara,94037,37.540582,-122.509594,Female,No,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108.75,6871.7,0
+1,United States,California,Escondido,92027,33.141265,-116.967221,Female,No,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.7,5138.1,0
+1,United States,California,Fallbrook,92028,33.362575,-117.299644,Female,Yes,Yes,No,11,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.9,880.05,0
+1,United States,California,Boulevard,91905,32.677097,-116.304991,Female,No,No,No,9,No,No phone service,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,40.75,359.4,0
+1,United States,California,Los Angeles,90066,34.002028,-118.430656,Male,No,No,No,4,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74.4,299.7,1
+1,United States,California,Smith River,95567,41.950683,-124.097094,Male,No,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.15,20.15,1
+1,United States,California,Angelus Oaks,92305,34.1678,-116.86433,Male,No,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.9,19.9,1
+1,United States,California,Sunset Beach,90742,33.719221,-118.073596,Female,No,No,No,12,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,49.85,552.1,0
+1,United States,California,Newport Beach,92662,33.606336,-117.893042,Female,No,No,No,54,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),94.75,5121.75,0
+1,United States,California,Mount Hermon,95041,37.051166,-122.056194,Male,No,Yes,Yes,70,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Credit card (automatic),68.95,4858.7,0
+1,United States,California,Los Angeles,90066,34.002028,-118.430656,Male,No,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,83.2,1060.6,1
+1,United States,California,Torrance,90505,33.807882,-118.347957,Female,No,Yes,Yes,30,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),66.3,1923.5,0
+1,United States,California,San Diego,92139,32.677716,-117.047666,Female,No,Yes,No,15,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,88.15,1390.6,1
+1,United States,California,Los Angeles,90046,34.108455,-118.362081,Female,No,No,No,29,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,67.45,1801.1,0
+1,United States,California,Oceanside,92056,33.194742,-117.29032,Female,No,No,Yes,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),19.7,216.2,0
+1,United States,California,Miramonte,93641,36.696759,-119.024051,Male,No,No,No,70,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104.0,7250.15,1
+1,United States,California,Glendora,91740,34.119363,-117.855059,Female,No,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115.1,7008.15,0
+1,United States,California,Los Angeles,90035,34.051809,-118.383843,Female,No,No,Yes,35,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50.15,1655.35,0
+1,United States,California,Traver,93673,36.456091,-119.486225,Female,No,No,No,14,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.45,1072,1
+1,United States,California,Nicolaus,95659,38.788898,-121.608624,Female,No,No,No,59,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,95.8,5655.45,0
+1,United States,California,Wrightwood,92397,34.358321,-117.618263,Female,No,Yes,No,48,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45.3,2145,1
+1,United States,California,Templeton,93465,35.536115,-120.739231,Female,No,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,109.5,7674.55,1
+1,United States,California,Los Angeles,90025,34.046174,-118.446333,Male,No,Yes,No,25,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),55.55,1405.3,0
+1,United States,California,Loomis,95650,38.809175,-121.171375,Male,No,No,No,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.1,730.1,0
+1,United States,California,La Palma,90623,33.850504,-118.039892,Female,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,115.15,8349.7,0
+1,United States,California,Monterey,93940,36.362741,-121.869685,Female,Yes,No,No,35,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.55,2419,0
+1,United States,California,Citrus Heights,95610,38.69508,-121.271616,Female,No,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),104.3,6725.3,0
+1,United States,California,Tustin,92780,33.735802,-117.818805,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.75,45.75,1
+1,United States,California,Whittier,90605,33.960891,-118.032222,Female,No,No,No,63,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Credit card (automatic),58.55,3503.5,0
+1,United States,California,Woodacre,94973,38.005839,-122.638155,Male,No,No,No,22,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),56.75,1304.85,0
+1,United States,California,Biola,93606,36.798882,-120.019511,Female,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.75,706.6,1
+1,United States,California,Atwater,95301,37.321233,-120.656354,Female,No,No,No,67,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),53.4,3579.15,0
+1,United States,California,San Gabriel,91776,34.089927,-118.095645,Male,No,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,20.5,76.95,0
+1,United States,California,Millville,96062,40.531257,-122.148139,Male,No,Yes,No,4,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,65.6,250.1,0
+1,United States,California,San Francisco,94107,37.768881,-122.395521,Female,No,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),99.0,7061.65,0
+1,United States,California,Spring Valley,91978,32.730264,-116.950963,Male,No,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70.7,553.4,0
+1,United States,California,Yountville,94599,38.421458,-122.365048,Female,No,No,No,66,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,47.4,3177.25,0
+1,United States,California,Van Nuys,91411,34.17847,-118.459472,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.05,70.05,1
+1,United States,California,San Ramon,94583,37.766556,-121.976784,Female,Yes,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.3,424.45,1
+1,United States,California,Dos Palos,93620,37.045728,-120.630682,Female,No,No,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.25,1029.8,0
+1,United States,California,Mecca,92254,33.543835,-115.993906,Male,No,Yes,Yes,65,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),24.75,1715.1,0
+1,United States,California,Granada Hills,91344,34.291273,-118.505104,Female,No,Yes,No,19,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.2,1441.1,1
+1,United States,California,Emigrant Gap,95715,39.23754,-120.720196,Male,No,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),83.55,6093.3,0
+1,United States,California,Irvine,92618,33.667145,-117.732135,Female,No,No,No,29,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,31.2,926.2,0
+1,United States,California,Fallbrook,92028,33.362575,-117.299644,Female,No,Yes,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.2,292.85,1
+1,United States,California,Edwards,93523,34.966777,-117.961179,Female,Yes,Yes,Yes,11,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),78.1,864.85,0
+1,United States,California,Campbell,95008,37.279689,-121.954567,Female,No,No,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),108.25,6780.1,0
+1,United States,California,Stockton,95203,37.954089,-121.329761,Male,No,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.65,67.55,0
+1,United States,California,Oceanside,92057,33.254497,-117.285879,Female,No,Yes,No,12,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,29.2,309.1,1
+1,United States,California,Oakland,94603,37.739113,-122.175602,Male,No,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.9,827.45,0
+1,United States,California,Washington,95986,39.34128,-120.786867,Female,No,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),109.7,7344.45,0
+1,United States,California,Rancho Santa Fe,92091,32.99356,-117.207121,Female,No,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),89.9,2433.5,0
+1,United States,California,North Hollywood,91605,34.207295,-118.400022,Female,No,No,No,1,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.55,79.55,1
+1,United States,California,Mineral,96063,40.408796,-121.579609,Female,No,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),106.55,5763.3,1
+1,United States,California,Greenview,96037,41.528541,-122.955018,Male,No,Yes,No,70,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),77.3,5498.2,0
+1,United States,California,Reedley,93654,36.636638,-119.421842,Female,No,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.35,4849.1,0
+1,United States,California,San Jose,95110,37.34667,-121.910019,Male,No,No,No,59,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.0,1510.5,0
+1,United States,California,Bangor,95914,39.396585,-121.38029,Male,No,No,No,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50.5,50.5,1
+1,United States,California,San Francisco,94116,37.74441,-122.486764,Male,No,No,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),65.55,4807.45,0
+1,United States,California,Fullerton,92835,33.902211,-117.914922,Male,No,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90.4,6668.05,0
+1,United States,California,Escalon,95320,37.818543,-121.006907,Female,No,Yes,Yes,67,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),54.2,3623.95,0
+1,United States,California,Pico Rivera,90660,33.989524,-118.089299,Male,No,No,Yes,53,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,95.95,5036.9,0
+1,United States,California,Arcadia,91006,34.137319,-118.029837,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,135.2,0
+1,United States,California,Oakland,94601,37.776523,-122.219268,Male,No,Yes,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,99.45,4138.05,1
+1,United States,California,Squaw Valley,93675,36.719141,-119.202677,Female,No,Yes,Yes,28,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,90.45,2509.25,0
+1,United States,California,Costa Mesa,92626,33.678591,-117.905471,Male,No,Yes,Yes,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.25,1077.95,0
+1,United States,California,Vernalis,95385,37.609095,-121.263381,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,85.8,272.2,1
+1,United States,California,Farmersville,93223,36.29878,-119.201028,Male,No,Yes,No,63,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,102.6,6296.75,0
+1,United States,California,Manteca,95337,37.750822,-121.238423,Female,No,No,No,36,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),89.65,3348.1,0
+1,United States,California,Fortuna,95540,40.584991,-124.121504,Male,No,No,Yes,54,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,61.0,3283.05,0
+1,United States,California,Newhall,91321,34.370378,-118.504118,Female,Yes,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105.55,7195.35,0
+1,United States,California,Alameda,94502,37.724817,-122.224363,Female,No,No,Yes,13,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,30.15,382.2,0
+1,United States,California,Santa Paula,93060,34.402343,-119.094824,Male,No,Yes,Yes,50,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),44.8,2230.85,0
+1,United States,California,Thousand Oaks,91362,34.191842,-118.822796,Male,No,Yes,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),45.25,3139.8,0
+1,United States,California,Stanford,94305,37.424342,-122.165641,Female,No,Yes,Yes,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.6,780.25,0
+1,United States,California,Indio,92201,33.713891,-116.237257,Male,No,Yes,No,19,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),100.0,1888.65,1
+1,United States,California,Mammoth Lakes,93546,37.550074,-118.837167,Female,No,No,No,16,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,38.9,664.4,0
+1,United States,California,Sunland,91040,34.282704,-118.312929,Male,No,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84.25,3539.25,0
+1,United States,California,Linden,95236,38.047746,-121.030499,Male,No,No,No,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),19.3,1447.9,0
+1,United States,California,Santa Ysabel,92070,33.174725,-116.743329,Female,Yes,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,6401.25,0
+1,United States,California,Sausalito,94965,37.848641,-122.515692,Male,No,No,No,15,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,51.55,765.5,1
+1,United States,California,Lancaster,93535,34.712708,-117.889656,Male,Yes,Yes,No,69,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Two year,No,Credit card (automatic),56.55,3952.65,0
+1,United States,California,Berkeley,94703,37.863843,-122.275684,Female,No,Yes,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,20.2,746.05,0
+1,United States,California,Los Angeles,90065,34.108833,-118.229715,Female,Yes,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,73.85,196.4,0
+1,United States,California,Newcastle,95658,38.883224,-121.15918,Female,Yes,No,No,2,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,30.4,78.65,1
+1,United States,California,Palo Alto,94304,37.386978,-122.177746,Male,Yes,Yes,No,59,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.25,2997.45,0
+1,United States,California,Hercules,94547,37.991259,-122.214945,Male,No,Yes,No,49,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),93.85,4733.1,0
+1,United States,California,Palmdale,93550,34.536232,-118.082935,Female,No,Yes,Yes,18,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.65,471.35,0
+1,United States,California,Pioneer,95666,38.546999,-120.271114,Female,No,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),110.25,7279.35,0
+1,United States,California,Long Beach,90815,33.797638,-118.11662,Male,No,No,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.7,251.6,0
+1,United States,California,San Diego,92106,32.71346,-117.236378,Female,No,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,87.1,341.45,1
+1,United States,California,Whittier,90604,33.929704,-118.01208,Male,No,Yes,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),75.35,75.35,0
+1,United States,California,Waterford,95386,37.669516,-120.626964,Male,Yes,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,98.3,6066.55,0
+1,United States,California,Escalon,95320,37.818543,-121.006907,Female,No,No,Yes,18,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.3,454.65,0
+1,United States,California,Garden Grove,92841,33.786738,-117.982564,Male,No,Yes,Yes,56,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.15,1402.25,0
+1,United States,California,Sacramento,95828,38.486938,-121.395805,Male,No,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85.3,424.15,1
+1,United States,California,Glennville,93226,35.735694,-118.738483,Female,No,No,No,3,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,57.55,161.45,0
+1,United States,California,El Cajon,92019,32.785165,-116.862648,Male,No,Yes,Yes,5,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),64.4,316.9,0
+1,United States,California,Joshua Tree,92252,34.167236,-116.281511,Male,No,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.5,453.75,1
+1,United States,California,Mojave,93501,35.097323,-118.171288,Male,No,No,No,71,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),79.05,5552.5,0
+1,United States,California,Big Sur,93920,36.092975,-121.549826,Female,Yes,No,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,89.75,5496.9,0
+1,United States,California,Wheatland,95692,39.043387,-121.409837,Male,No,No,No,1,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,44.65,44.65,1
+1,United States,California,Lake Elsinore,92532,33.705836,-117.318204,Male,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.65,71.65,1
+1,United States,California,El Cerrito,94530,37.924838,-122.289145,Male,Yes,Yes,No,7,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),29.8,220.45,0
+1,United States,California,Covina,91724,34.08111,-117.853935,Male,No,Yes,Yes,58,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.85,5305.05,0
+1,United States,California,Palomar Mountain,92060,33.309852,-116.823091,Female,No,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89.15,2257.75,1
+1,United States,California,Graton,95444,38.434362,-122.86891,Female,No,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.8,1540.35,0
+1,United States,California,Dobbins,95935,39.381174,-121.21191,Male,No,No,No,58,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,104.65,6219.6,1
+1,United States,California,Rancho Mirage,92270,33.763678,-116.429928,Female,No,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.65,38.7,1
+1,United States,California,Fullerton,92832,33.868316,-117.929029,Male,No,Yes,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.1,85.1,0
+1,United States,California,Jackson,95642,38.336216,-120.76901,Female,Yes,Yes,No,25,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.3,1813.1,0
+1,United States,California,San Jose,95135,37.28682,-121.723877,Female,No,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98.1,396.3,1
+1,United States,California,Los Angeles,90031,34.085807,-118.206617,Male,No,Yes,No,56,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,24.45,1431.65,0
+1,United States,California,Woody,93287,35.710244,-118.881679,Female,Yes,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.6,131.65,1
+1,United States,California,Hoopa,95546,41.163637,-123.704841,Female,No,Yes,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.35,335.95,0
+1,United States,California,Los Angeles,90066,34.002028,-118.430656,Female,No,No,No,36,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),104.8,3886.45,0
+1,United States,California,Greenbrae,94904,37.946617,-122.563571,Male,No,No,No,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.85,1253.65,0
+1,United States,California,Avenal,93204,35.916943,-120.129921,Female,No,No,No,3,No,No phone service,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,34.25,139.35,1
+1,United States,California,Los Angeles,90004,34.076259,-118.310715,Female,No,Yes,Yes,48,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,79.65,3870.3,0
+1,United States,California,Santa Rosa,95401,38.460517,-122.790335,Female,No,Yes,Yes,3,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),58.7,168.6,0
+1,United States,California,Mckinleyville,95519,40.965011,-124.015255,Female,No,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),96.75,4442.75,0
+1,United States,California,Los Altos,94024,37.352911,-122.093002,Male,No,Yes,Yes,53,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,71.85,3827.9,0
+1,United States,California,Riverside,92504,33.9108,-117.398153,Male,No,Yes,No,43,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,80.2,3581.6,0
+1,United States,California,Citrus Heights,95621,38.69549,-121.307864,Female,No,Yes,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.25,375.25,0
+1,United States,California,Santa Fe Springs,90670,33.933565,-118.062611,Male,No,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),23.55,1723.95,0
+1,United States,California,Herald,95638,38.313447,-121.123886,Female,No,No,No,70,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),44.6,3058.15,0
+1,United States,California,Riverside,92507,33.976328,-117.319786,Male,No,Yes,No,28,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,60.9,1785.65,0
+1,United States,California,Alleghany,95910,39.467828,-120.841386,Male,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.05,657.5,0
+1,United States,California,Mendocino,95460,39.305545,-123.743697,Male,No,Yes,Yes,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.0,1664.3,0
+1,United States,California,Paicines,95043,36.525703,-120.952122,Male,No,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.0,275.7,0
+1,United States,California,Aguanga,92536,33.482243,-116.827173,Female,No,No,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.75,498.1,0
+1,United States,California,Citrus Heights,95610,38.69508,-121.271616,Female,No,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,19.5,178.85,0
+1,United States,California,San Quentin,94964,37.942551,-122.491642,Female,Yes,No,No,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.6,967.9,0
+1,United States,California,Brisbane,94005,37.684694,-122.40712,Male,No,No,Yes,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),99.7,4634.35,0
+1,United States,California,Fair Oaks,95628,38.652065,-121.25441,Female,Yes,No,No,25,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,102.8,2660.2,1
+1,United States,California,Campbell,95008,37.279689,-121.954567,Male,Yes,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,110.85,7491.75,1
+1,United States,California,Petrolia,95558,40.274302,-124.210902,Male,No,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83.95,2254.2,1
+1,United States,California,Angelus Oaks,92305,34.1678,-116.86433,Female,No,Yes,Yes,11,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.6,346.45,0
+1,United States,California,Grover Beach,93433,35.120833,-120.61843,Male,No,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.75,19.75,0
+1,United States,California,El Dorado Hills,95762,38.684437,-121.055634,Male,No,No,No,11,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,84.8,888.75,0
+1,United States,California,Elk Grove,95758,38.35363,-121.44195,Male,No,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.5,162.45,1
+1,United States,California,Santa Barbara,93101,34.419203,-119.710008,Male,Yes,Yes,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110.75,4687.9,1
+1,United States,California,Sacramento,95827,38.549185,-121.328386,Female,No,Yes,Yes,58,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91.55,5511.65,0
+1,United States,California,Malibu,90265,34.074572,-118.831181,Male,No,Yes,Yes,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,96.8,1826.7,0
+1,United States,California,Westwood,96137,40.271535,-121.018087,Male,No,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.0,340.85,1
+1,United States,California,Salinas,93905,36.667794,-121.601306,Female,Yes,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117.35,8436.25,0
+1,United States,California,Fresno,93704,36.799648,-119.801247,Female,No,No,No,67,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),60.5,3870,0
+1,United States,California,Sunset Beach,90742,33.719221,-118.073596,Male,No,Yes,Yes,4,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),61.45,229.55,1
+1,United States,California,Harbor City,90710,33.798266,-118.300237,Male,No,Yes,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),92.2,6392.85,0
+1,United States,California,Hyampom,96046,40.648024,-123.465088,Male,Yes,Yes,No,63,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),36.1,2298.9,0
+1,United States,California,Los Alamos,93440,34.758699,-120.275839,Male,Yes,Yes,No,33,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.5,3105.55,1
+1,United States,California,Ravendale,96123,40.845738,-120.322219,Female,No,Yes,Yes,23,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,23.85,625.65,0
+1,United States,California,Mountain View,94043,37.419725,-122.062947,Male,No,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,98.15,1230.25,1
+1,United States,California,Farmersville,93223,36.29878,-119.201028,Female,No,No,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,24.8,475.25,0
+1,United States,California,Perris,92570,33.787298,-117.320676,Female,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.2,74.2,1
+1,United States,California,Newport Beach,92661,33.601309,-117.902304,Male,No,No,No,32,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.35,2596.15,1
